@@ -6,7 +6,7 @@
 
 ### 1) BSP
 
-The `BSP` is the `Board Support Package` (drivers). All files prefixed with the `BSP` are targeted to the `ECC Embedded Development Boards` that use the `PIC24FJ` series. Most of the functions that access to CPU and peripherals are implemented using `event-driven` and `callback operations`. There fully support real-time asynchronous operations.
+The `BSP` is the `Board Support Package` (drivers). All files prefixed with the `BSP` are targeted to the `ECC Embedded Development Boards` that use the `PIC24FJ` series. Most of the functions that access to CPU and peripherals are implemented using `event-driven` and `callback operations`. They fully support real-time asynchronous operations.
 
 ### 2) RTL
 
