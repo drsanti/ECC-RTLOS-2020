@@ -18,7 +18,7 @@ The `RTOS` is the modified version of the `FreeRTOS`. The core functions of the 
 
 # ECC-RTLOS Modes
 
-The `ECC-RTLOS` has three main modes can be configured to fit a user application. Changing the operation modes can be done by modifying one or two lines of code in the header file `ap.h`.
+The `ECC-RTLOS` has three main modes that can be configured to fit a user application. Changing the operation modes can be done by modifying one or two lines of code in the header file `ap.h`.
 
 ### Mode 1) Pure BSP
 
