@@ -72,7 +72,7 @@ Using the three techniques, `Flasher`, `Blinker`, and programable `PWM` to contr
  *          (Please see closely in the app.h and config.cfg)*
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  ************************************************************
  * Update:  18 February 2020 (Initial)                      *
  * Update:  23 February 2020                                *
@@ -202,7 +202,7 @@ int main(void) {
  *          (Please see closely in the app.h and config.cfg)*
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  ************************************************************
  * Update:  18 February 2020 (Initial)                      *
  * Update:  23 February 2020                                *
@@ -282,7 +282,7 @@ int main(void) {
  *          (Please see closely in the app.h and config.cfg)*
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  ************************************************************
  * Update:  18 February 2020 (Initial)                      *
  * Update:  23 February 2020                                *
@@ -410,7 +410,7 @@ int main(void) {
  *          (Please see closely in the app.h and config.cfg)*
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  ************************************************************
  * Update:  18 February 2020 (Initial)                      *
  * Update:  23 February 2020                                *
@@ -441,7 +441,7 @@ int main(void) {
 void PWM_TaskCode( void * pvParameters ) {
 
     // Servo motor requires 50 Hz (20 mS) of PWM
-    // Minumum of t-on is 1.0 mS (1/20 duty ratio)
+    // Minimum of t-on is 1.0 mS (1/20 duty ratio)
     // Maximum of t-on is 2.0 mS (2/20 duty ratio)
     #define T_MIN 1.0
     #define T_MAX 2.0
@@ -566,7 +566,7 @@ int main(void) {
  *          (Please see closely in the app.h and config.cfg)*
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  ************************************************************
  * Update:  18 February 2020 (Initial)                      *
  * Update:  23 February 2020                                *
@@ -677,7 +677,7 @@ int main(void) {
  *          (Please see closely in the app.h and config.cfg)*
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  ************************************************************
  * Update:  18 February 2020 (Initial)                      *
  * Update:  23 February 2020                                *
@@ -798,7 +798,7 @@ int main(void) {
  *          (Please see closely in the app.h and config.cfg)*
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  ************************************************************
  * Update:  18 February 2020 (Initial)                      *
  * Update:  23 February 2020                                *
