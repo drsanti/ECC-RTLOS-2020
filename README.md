@@ -1,6 +1,6 @@
 # ECC-RTLOS-2020 (v0.1.0, The First Release)
 
->This repository is continuously updated. It is still under the development process. All files will be changed continuously.
+>This repository is still under the development process. All files will be changed continuously.
 
 # ECC-RTLOS Components
 
