@@ -5,7 +5,7 @@
  *          (Please see closely in the app.h and config.cfg)*
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  ************************************************************
  * Update:  23 February 2020                                *
  ************************************************************/

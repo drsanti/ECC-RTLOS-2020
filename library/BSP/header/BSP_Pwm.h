@@ -2,7 +2,7 @@
  * File:    BSP_Pwm.h                                       *
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  * Update:  19 February 2020                                *
  ************************************************************/
 

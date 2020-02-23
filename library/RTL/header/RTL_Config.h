@@ -1,3 +1,11 @@
+/************************************************************
+ * File:    RTL_Config.h                                    *
+ * Author:  Asst.Prof.Dr.Santi Nuratch                      *
+ *          Embedded Computing and Control Laboratory       *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
+ * Update:  17 February 2020                                *
+ ************************************************************/
+
 #ifndef __RTL_CONFIG_H__
 
     #define __RTL_CONFIG_H__

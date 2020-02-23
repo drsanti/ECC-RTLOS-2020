@@ -2,7 +2,7 @@
  * File:    BSP_LedBlink.h                                  *
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  * Update:  22 February 2020                                *
  ************************************************************/
 

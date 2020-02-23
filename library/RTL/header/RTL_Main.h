@@ -2,7 +2,7 @@
  * File:    RT_Main.h                                       *
  * Author:  Asst.Prof.Dr.Santi Nuratch                      *
  *          Embedded Computing and Control Laboratory       *
- *          ECC-Lab, INC, LMUTT, Thailand                   *
+ *          ECC-Lab, INC, KMUTT, Thailand                   *
  * Update:  17 February 2020                                *
  ************************************************************/
 
